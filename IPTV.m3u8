@@ -1,4 +1,4 @@
-#EXTM3U
+#extm3u
 #EXTINF:-1 group-title="央视频道",CCTV-1综合
 http://123.113.180.104:9000/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV-2财经
